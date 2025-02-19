@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title> About Me </title>
+</head>
+
+<body>
+
+<h1> This is my Home Page - Biography </h1>
+
+	<nav style='background-color:yellow; text-align:center; font-weight;bold;'>
+			<a href='p1_form.html'> about me </a> &nbsp &nbsp &nbsp
+			<a href='p2_hobby.html'> my hobbies </a> &nbsp &nbsp &nbsp
+			<a href='p3.html'> portfolio </a> &nbsp &nbsp &nbsp
+			<a href='p4.html'> favorites </a> &nbsp &nbsp &nbsp
+			<a href='p5_form.html'> contact me </a> &nbsp &nbsp &nbsp
+			</nav>
+
+<div>
+    <h2> Personal </h2>
+    
+        <p> My name is Mateo Abrego and I'm a student at Mather High School.
+        Currently I am in my Junior year of high school and I'm 16 years old.
+        </p>
+
+
+
+    <h3> Favorite Car </h3>
+    
+        <p>This is my favorite car, an orange Lamborghini  </p>
+        <div>
+        <img src='hurus.jpg' alt='My Dream Car' height='200' width='400'>
+        </div>
+    
+    <h2> School </h2>
+        <p> We are Mather Rangers </p>
+        <ul> <h4> 3 Things I like about Mather </h4>
+            <li> Most of the Community </li>
+            <li> The Teachers </li>
+            <li> Events/Field Trips </li>
+        </ul>
+        
+        <ol>  <strong> 2 Things that can be improved in Mather</strong>
+            <li> The Bathrooms start being <strong>cleaned once a week</strong> and make sure there's always toilet paperand soap avalible.</li>
+            <li> They need to make sure there's <strong>always working locks and doors for the bathroom stalls</strong>.</li>
+        </ol>    
+        <ol><u><b> 2 Dream Colleges</b></u>
+            <li>  <a href='https://www.luc.edu/'> Loyola University Chicago </li>
+            <li>  <a href='https://www.northwestern.edu/'> Northwestern University </li>
+        </ol>
+            
+            
+            
+            
+</body>
+</html>

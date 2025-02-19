@@ -1,0 +1,12 @@
+<doctype html>
+<html>
+<head> Drawing graphics with canvas </head>
+<title canvasl </title>
+
+<body>
+<h1> canvas element </h1>
+<p> The html <canvas> element is used to draw graphicd 
+- muiticolor rectangle and multicolor text </p>
+
+<h2> Methofd </h2>
+<p> canvas has several methods for drawing paths, boxes, circles, text and adding images </p>
